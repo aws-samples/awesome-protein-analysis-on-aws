@@ -50,6 +50,7 @@ AWS technical teams have developed solutions to common proteomics problems. Thes
 - [AWS Batch Architecture for OpenFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - [AWS Batch Architecture for OmegaFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - [AWS Batch Architecture for RoseTTAFold](https://github.com/aws-samples/aws-rosettafold)
+- [AWS EKS Architecture For OpenFold Inference](https://github.com/aws-samples/aws-do-openfold-inference)
 
 ---
 
