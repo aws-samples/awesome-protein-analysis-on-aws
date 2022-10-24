@@ -69,6 +69,7 @@ AWS technical teams have developed solutions to common proteomics problems. Thes
 - 2022-07-12 :newspaper: [How Thermo Fisher Scientific Accelerated Cryo-EM using AWS ParallelCluster](https://aws.amazon.com/blogs/hpc/how-thermo-fisher-scientific-accelerated-cryo-em-using-aws-parallelcluster/)
 - 2022-01-17 :newspaper: [CelerisTx: Drug Discovery for Incurable Diseases with ML on AWS](https://aws.amazon.com/blogs/startups/celeristx-drug-discovery-for-incurable-diseases-with-ml-on-aws/)
 - 2022 :books: [ENPICOM Supports Faster Insights for Therapeutic Antibody Discovery Using AWS](https://aws.amazon.com/solutions/case-studies/ENPICOM-case-study/?did=cr_card&trk=cr_card)
+- 2022 :hammer: [Cryo-EM on AWS ParallelCluster](https://github.com/aws-samples/cryoem-on-aws-parallel-cluster)
 - 2021-08-17 :newspaper: [Stion – a Software as a Service for Cryo-EM data processing on AWS](https://aws.amazon.com/blogs/hpc/stion-a-saas-for-cryo-em-data-processing-on-aws/)
 - 2019-10-30 :newspaper: [Structural biologists learning cryo-electron microscopy can access educational resources powered by AWS](https://aws.amazon.com/blogs/publicsector/structural-biologists-learning-cryo-electron-microscopy-have-new-educational-resources-powered-by-aws/)
 - 2019-10-29 :newspaper: [Building a GPU-enabled CryoEM workflow on AWS](https://aws.amazon.com/blogs/industries/building-a-gpu-enabled-cryoem-workflow-on-aws/)
