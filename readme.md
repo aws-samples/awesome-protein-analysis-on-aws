@@ -123,6 +123,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 - [Khanuja, Mani](https://github.com/mani-aiml)
 - Kitzmiller, Grace
 - Kniep, Christian
+- Kumbadakone, Shubha
 - [Loyal, Brian](https://github.com/brianloyal)
 - Malhotra, Sudhanshu
 - Pamulapati, Santhan
