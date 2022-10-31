@@ -46,6 +46,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.3. Resources for MSA-Based Structure Prediction
 
+- 2022-10-25 :newspaper: [Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS](https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/)
 - 2022-10-04 :newspaper: [Optimize Protein Folding Costs with OpenFold on AWS Batch](https://aws.amazon.com/blogs/hpc/optimize-protein-folding-costs-with-openfold-on-aws-batch/)
 - 2022-04-18 :newspaper: [Predicting protein structures at scale using AWS Batch](https://aws.amazon.com/blogs/industries/predicting-protein-structures-at-scale-using-aws-batch/)
 - 2022 :hammer: [AWS Batch Architecture for AlphaFold 2.0](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
