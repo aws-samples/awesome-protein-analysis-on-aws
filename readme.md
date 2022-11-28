@@ -137,6 +137,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 - [Skjerven, Brian](https://github.com/skjerven)
 - [Smith, Sean](https://github.com/sean-smith)
 - [Srivastava, Ankur](https://github.com/awsankur)
+- Tessler, Lee
 - Trummer Christopher
 - Wang, Qi
 - Weber, Noah
