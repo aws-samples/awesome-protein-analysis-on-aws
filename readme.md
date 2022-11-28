@@ -60,12 +60,15 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.4. Resources for LLM-Based Structure Prediction
 
+- 2022 :hammer: [AWS Batch Architecture for ESMFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS Batch Architecture for OmegaFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 
 ---
 
 ### 2.5. Resources for Experimental Analysis
 
+- 2022-11-21 :newspaper: [Building Digitally Connected Labs with AWS](https://aws.amazon.com/blogs/industries/building-digitally-connected-labs-with-aws/)
+- 2022 :books: [Vertex Pharmaceuticals Reduces Costs of Cryo-EM Data Storage and Processing by 50% Using AWS](https://aws.amazon.com/solutions/case-studies/vertex-case-study/)
 - 2022-09-21 :newspaper: [Japan’s High Energy Accelerator Research Organization, KEK, accelerates search for new vaccines with AWS](https://aws.amazon.com/blogs/publicsector/japans-high-energy-accelerator-research-organization-kek-accelerates-search-new-vaccines-aws/)
 - 2022-07-12 :newspaper: [How Thermo Fisher Scientific Accelerated Cryo-EM using AWS ParallelCluster](https://aws.amazon.com/blogs/hpc/how-thermo-fisher-scientific-accelerated-cryo-em-using-aws-parallelcluster/)
 - 2022-01-17 :newspaper: [CelerisTx: Drug Discovery for Incurable Diseases with ML on AWS](https://aws.amazon.com/blogs/startups/celeristx-drug-discovery-for-incurable-diseases-with-ml-on-aws/)
@@ -94,7 +97,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.7. Resources for Protein Design
 
-- 2022 :hammer: [AWS Batch Architecture for RFDesign](https://github.com/aws-samples/aws-batch-architecture-for-rfdesign)
+- 2022 :hammer: [AWS Batch Architecture for RFDesign](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 
 ---
 
