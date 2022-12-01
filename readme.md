@@ -1,6 +1,6 @@
 # Awesome Protein Analysis on AWS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for protein analysis on AWS.
+> A curated list of awesome resources for protein analysis on AWS.
 
 ## Contents
 
@@ -97,12 +97,14 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.7. Resources for Protein Design
 
+- 2022 :hammer: [AWS Batch Architecture for ProteinMPNN](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS Batch Architecture for RFDesign](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 
 ---
 
 ### 2.8. Other Resources
 
+- 2022-10-12 :newspaper: [BioContainers are now available in Amazon ECR Public Gallery](https://aws.amazon.com/blogs/hpc/biocontainers-are-now-available-in-amazon-ecr-public-gallery/)
 - 2021-08-16 :newspaper: [Menten AI Leverages AWS, AI, and Quantum Computing to Create New and Improved Drugs](https://aws.amazon.com/blogs/startups/menten-ai-leverages-aws-ai-quantum-computing-to-create-drugs/)
 - 2021 :books: [Powering Moderna’s digital biotechnology platform to develop new vaccines](https://aws.amazon.com/solutions/case-studies/moderna-machine-learning/?did=cr_card&trk=cr_card)
 - 2020 :books: [Relay Therapeutics Uses AWS to Accelerate Drug Discovery](https://aws.amazon.com/solutions/case-studies/relay-therapeutics/)
@@ -131,6 +133,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 - Malhotra, Sudhanshu
 - Pamulapati, Santhan
 - Peven, Ben
+- [Pizarro, Angel](https://github.com/delagoya)
 - Rapp, Micah
 - [Schreckengaust, Scott](https://github.com/scottschreckengaust)
 - Shi, Yuan
