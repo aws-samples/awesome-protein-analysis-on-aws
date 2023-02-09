@@ -125,6 +125,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 - Eng, Edward
 - Enigbokan, Olajide
 - Greene, Eric
+- [Ishio, Chiaki](https://github.com/chiaki-i)
 - Joshi, Vaijayanti
 - Kadyan, Sachin
 - [Khanuja, Mani](https://github.com/mani-aiml)
@@ -132,7 +133,6 @@ AWS technical teams have developed solutions to common protein analysis problems
 - Kniep, Christian
 - Kumbadakone, Shubha
 - [Kuriyama, Daiki](https://github.com/kuridaik)
-- [Ishio, Chiaki](https://github.com/chiaki-i)
 - [Loyal, Brian](https://github.com/brianloyal)
 - Malhotra, Sudhanshu
 - Pamulapati, Santhan
