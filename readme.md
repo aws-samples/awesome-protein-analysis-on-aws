@@ -46,7 +46,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.3. Resources for MSA-Based Structure Prediction
 
-- 2023-01-30 :hammer: [AlphaFold2 Service on AWS](https://github.com/aws-samples/alphafold-protein-structure-prediction-with-frontend-app)
+- 2023-01-30 :hammer: [AlphaFold2 Webapp on AWS](https://github.com/aws-samples/alphafold-protein-structure-prediction-with-frontend-app)
 - 2022-10-25 :newspaper: [Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS](https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/)
 - 2022-10-04 :newspaper: [Optimize Protein Folding Costs with OpenFold on AWS Batch](https://aws.amazon.com/blogs/hpc/optimize-protein-folding-costs-with-openfold-on-aws-batch/)
 - 2022-04-18 :newspaper: [Predicting protein structures at scale using AWS Batch](https://aws.amazon.com/blogs/industries/predicting-protein-structures-at-scale-using-aws-batch/)
@@ -119,6 +119,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 - [Broyde, Joshua](https://github.com/JoshB29)
 - Carter, Maggie
 - Cherian, Austin
+- [Chiyoda, Shingo](https://github.com/shingochiyoda)
 - Cianfrocco, Michael
 - Deshpande, Aniket
 - Eng, Edward
@@ -130,7 +131,8 @@ AWS technical teams have developed solutions to common protein analysis problems
 - Kitzmiller, Grace
 - Kniep, Christian
 - Kumbadakone, Shubha
-- [Ishio, Chiaki](https://github.com/shingochiyoda)
+- [Kuriyama, Daiki](https://github.com/kuridaik)
+- [Ishio, Chiaki](https://github.com/chiaki-i)
 - [Loyal, Brian](https://github.com/brianloyal)
 - Malhotra, Sudhanshu
 - Pamulapati, Santhan
