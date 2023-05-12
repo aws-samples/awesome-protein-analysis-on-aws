@@ -61,6 +61,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.4. Resources for LLM-Based Structure Prediction
 
+- 2023-05-09 :newspaper: [Accelerate protein structure prediction with the ESMFold language model on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/accelerate-protein-structure-prediction-with-the-esmfold-language-model-on-amazon-sagemaker/)
 - 2022 :hammer: [AWS Batch Architecture for ESMFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS Batch Architecture for OmegaFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 
@@ -98,6 +99,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.7. Resources for Protein Design
 
+- 2023-04-23 :newspaper: [How Evolvere Biosciences performs macromolecule design on AWS](https://aws.amazon.com/blogs/hpc/how-evolvere-biosciences-performs-macromolecule-design-on-the-aws-cloud/)
 - 2022 :hammer: [AWS Batch Architecture for ProteinMPNN](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS Batch Architecture for RFDesign](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 
