@@ -46,6 +46,9 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.3. Resources for MSA-Based Structure Prediction
 
+- 2023--07-31 :newspaper: [Build protein folding workflows to accelerate drug discovery on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/)
+- 2023-07-05 :newspaper: [Running protein structure prediction at scale using a web interface for researchers](https://aws.amazon.com/blogs/hpc/running-protein-structure-prediction-at-scale-using-a-web-interface-for-researchers/)
+- 2023-06-20 :newspaper: [Protein Structure Prediction at Scale using AWS Batch](https://aws.amazon.com/blogs/hpc/protein-structure-prediction-at-scale-using-aws-batch/)
 - 2023-01-30 :hammer: [AlphaFold2 Webapp on AWS](https://github.com/aws-samples/alphafold-protein-structure-prediction-with-frontend-app)
 - 2022-10-25 :newspaper: [Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS](https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/)
 - 2022-10-04 :newspaper: [Optimize Protein Folding Costs with OpenFold on AWS Batch](https://aws.amazon.com/blogs/hpc/optimize-protein-folding-costs-with-openfold-on-aws-batch/)
@@ -99,6 +102,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.7. Resources for Protein Design
 
+- 2023-05-10 :hammer: [Perform Antibody Structure Prediction and Design](https://catalog.workshops.aws/hcls-aiml/en-US/protein-analysis)
 - 2023-04-23 :newspaper: [How Evolvere Biosciences performs macromolecule design on AWS](https://aws.amazon.com/blogs/hpc/how-evolvere-biosciences-performs-macromolecule-design-on-the-aws-cloud/)
 - 2022 :hammer: [AWS Batch Architecture for ProteinMPNN](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS Batch Architecture for RFDesign](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
@@ -127,6 +131,8 @@ AWS technical teams have developed solutions to common protein analysis problems
 - Eng, Edward
 - Enigbokan, Olajide
 - Greene, Eric
+- Grewal, Jasleen 
+- [Hsieh, Michael](https://github.com/michaelhsieh42)
 - [Ishio, Chiaki](https://github.com/chiaki-i)
 - Joshi, Vaijayanti
 - Kadyan, Sachin
@@ -137,9 +143,12 @@ AWS technical teams have developed solutions to common protein analysis problems
 - [Kuriyama, Daiki](https://github.com/kuridaik)
 - [Loyal, Brian](https://github.com/brianloyal)
 - Malhotra, Sudhanshu
+- [Miyamoto, Daisuke](https://github.com/DaisukeMiyamoto)
+- [Patel, Shivam](https://github.com/shimpat)
 - Pamulapati, Santhan
 - Peven, Ben
 - [Pizarro, Angel](https://github.com/delagoya)
+- Poonawala, Hasan
 - Rapp, Micah
 - [Schreckengaust, Scott](https://github.com/scottschreckengaust)
 - Shi, Yuan
