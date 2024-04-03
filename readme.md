@@ -39,6 +39,9 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.2. Resources for Sequence Property Prediction
 
+- 2024-03-18 :newspaper: [Protein language model training with NVIDIA BioNeMo framework on AWS ParallelCluster](https://aws.amazon.com/blogs/hpc/protein-language-model-training-with-nvidia-bionemo-framework-on-aws-parallelcluster/)
+- 2024-03-11 :newspaper: [Find the Next Blockbuster with NVIDIA BioNeMo Framework on Amazon SageMaker](https://aws.amazon.com/blogs/industries/find-the-next-blockbuster-with-nvidia-bionemo-framework-on-amazon-sagemaker/)
+- 2024-03-6 :newspaper: [Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/)
 - 2021-06-10 :newspaper: [Exploring the UniProt protein knowledgebase with AWS Open Data and Amazon Neptune](https://aws.amazon.com/blogs/industries/exploring-the-uniprot-protein-knowledgebase-with-aws-open-data-and-amazon-neptune/)
 - 2021-05-27 :newspaper: [Fine-tune and deploy the ProtBERT model for protein classification using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-the-protbert-model-for-protein-classification-using-amazon-sagemaker/)
 
@@ -46,7 +49,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.3. Resources for MSA-Based Structure Prediction
 
-- 2023--07-31 :newspaper: [Build protein folding workflows to accelerate drug discovery on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/)
+- 2023-07-31 :newspaper: [Build protein folding workflows to accelerate drug discovery on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/)
 - 2023-07-05 :newspaper: [Running protein structure prediction at scale using a web interface for researchers](https://aws.amazon.com/blogs/hpc/running-protein-structure-prediction-at-scale-using-a-web-interface-for-researchers/)
 - 2023-06-20 :newspaper: [Protein Structure Prediction at Scale using AWS Batch](https://aws.amazon.com/blogs/hpc/protein-structure-prediction-at-scale-using-aws-batch/)
 - 2023-01-30 :hammer: [AlphaFold2 Webapp on AWS](https://github.com/aws-samples/alphafold-protein-structure-prediction-with-frontend-app)
@@ -64,6 +67,8 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.4. Resources for LLM-Based Structure Prediction
 
+- 2024-03-18 :newspaper: [Protein language model training with NVIDIA BioNeMo framework on AWS ParallelCluster](https://aws.amazon.com/blogs/hpc/protein-language-model-training-with-nvidia-bionemo-framework-on-aws-parallelcluster/)
+- 2024-03-11 :newspaper: [Find the Next Blockbuster with NVIDIA BioNeMo Framework on Amazon SageMaker](https://aws.amazon.com/blogs/industries/find-the-next-blockbuster-with-nvidia-bionemo-framework-on-amazon-sagemaker/)
 - 2023-05-09 :newspaper: [Accelerate protein structure prediction with the ESMFold language model on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/accelerate-protein-structure-prediction-with-the-esmfold-language-model-on-amazon-sagemaker/)
 - 2022 :hammer: [AWS Batch Architecture for ESMFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS Batch Architecture for OmegaFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
