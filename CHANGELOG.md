@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.0] - 2024-07-08
+
+### 1.7.0. Added
+
+- Add "Accelerate drug discovery with NVIDIA BioNeMo Framework on Amazon EKS"
+- Add "Revolutionizing Generative Biology with AWS and EvolutionaryScale"
+- Add "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker"
+- Add "AWS and Accenture Help Merck Use Cloud Technology to Reduce Drug Discovery Time and Accelerate Clinical Trial Development"
+
+### 1.7.0. Changed
+
+- Combined the structure prediction sections
+
 ## [1.6.0] - 2023-08-09
 
 ### 1.6.0. Added

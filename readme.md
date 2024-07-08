@@ -8,12 +8,11 @@
 - [2. Resources by Workflow Type](#2-resources-by-workflow-type)
 - [2.1. Resources for Sequence Homology Search](#21-resources-for-sequence-homology-search)
 - [2.2. Resources for Sequence Property Prediction](#22-resources-for-sequence-property-prediction)
-- [2.3. Resources for MSA-based Structure Prediction](#23-resources-for-msa-based-structure-prediction)
-- [2.4. Resources for LLM-based Structure Prediction](#24-resources-for-llm-based-structure-prediction)
-- [2.5. Resources for Experimental Analysis](#25-resources-for-experimental-analysis)
-- [2.6. Resources for Molecular Dynamics Simulations](#26-resources-for-molecular-dynamics-simulations)
-- [2.7. Resources for Protein Design](#27-resources-for-protein-design)
-- [2.8. Other Resources](#28-other-resources)
+- [2.3. Resources for Structure Prediction](#23-resources-for-structure-prediction)
+- [2.4. Resources for Experimental Analysis](#24-resources-for-experimental-analysis)
+- [2.5. Resources for Molecular Dynamics Simulations](#25-resources-for-molecular-dynamics-simulations)
+- [2.6. Resources for Protein Design](#26-resources-for-protein-design)
+- [2.7. Other Resources](#27-other-resources)
 - [3. Content Creators](#3-content-creators)
 - [4. Contribute](#4-contribute)
 
@@ -47,11 +46,13 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ---
 
-### 2.3. Resources for MSA-Based Structure Prediction
+### 2.3. Resources for Structure Prediction
 
+- 2023-11-29 :books: [AWS and Accenture Help Merck Use Cloud Technology to Reduce Drug Discovery Time and Accelerate Clinical Trial Development](https://press.aboutamazon.com/2023/11/aws-and-accenture-help-merck-use-cloud-technology-to-reduce-drug-discovery-time-and-accelerate-clinical-trial-development)
 - 2023-07-31 :newspaper: [Build protein folding workflows to accelerate drug discovery on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/build-protein-folding-workflows-to-accelerate-drug-discovery-on-amazon-sagemaker/)
 - 2023-07-05 :newspaper: [Running protein structure prediction at scale using a web interface for researchers](https://aws.amazon.com/blogs/hpc/running-protein-structure-prediction-at-scale-using-a-web-interface-for-researchers/)
 - 2023-06-20 :newspaper: [Protein Structure Prediction at Scale using AWS Batch](https://aws.amazon.com/blogs/hpc/protein-structure-prediction-at-scale-using-aws-batch/)
+- 2023-05-09 :newspaper: [Accelerate protein structure prediction with the ESMFold language model on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/accelerate-protein-structure-prediction-with-the-esmfold-language-model-on-amazon-sagemaker/)
 - 2023-01-30 :hammer: [AlphaFold2 Webapp on AWS](https://github.com/aws-samples/alphafold-protein-structure-prediction-with-frontend-app)
 - 2022-10-25 :newspaper: [Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS](https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/)
 - 2022-10-04 :newspaper: [Optimize Protein Folding Costs with OpenFold on AWS Batch](https://aws.amazon.com/blogs/hpc/optimize-protein-folding-costs-with-openfold-on-aws-batch/)
@@ -60,18 +61,19 @@ AWS technical teams have developed solutions to common protein analysis problems
 - 2022 :hammer: [AWS Batch Architecture for AlphaFold-Multimer](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS Batch Architecture for OpenFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2022 :hammer: [AWS EKS Architecture For OpenFold Inference](https://github.com/aws-samples/aws-do-openfold-inference)
+- 2022 :hammer: [AWS Batch Architecture for ESMFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
+- 2022 :hammer: [AWS Batch Architecture for OmegaFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
 - 2021-11-05 :newspaper: [Run AlphaFold v2.0 on Amazon EC2](https://aws.amazon.com/blogs/machine-learning/run-alphafold-v2-0-on-amazon-ec2/)
 - 2021 :hammer: [AWS Batch Architecture for RoseTTAFold](https://github.com/aws-samples/aws-rosettafold)
 
 ---
 
-### 2.4. Resources for LLM-Based Structure Prediction
+### 2.4. Resources for Protein Language Model Training
 
+- 2024-05-01 :newspaper: [Accelerate drug discovery with NVIDIA BioNeMo Framework on Amazon EKS](https://aws.amazon.com/blogs/hpc/accelerate-drug-discovery-with-nvidia-bionemo-framework-on-amazon-eks/)
 - 2024-03-18 :newspaper: [Protein language model training with NVIDIA BioNeMo framework on AWS ParallelCluster](https://aws.amazon.com/blogs/hpc/protein-language-model-training-with-nvidia-bionemo-framework-on-aws-parallelcluster/)
 - 2024-03-11 :newspaper: [Find the Next Blockbuster with NVIDIA BioNeMo Framework on Amazon SageMaker](https://aws.amazon.com/blogs/industries/find-the-next-blockbuster-with-nvidia-bionemo-framework-on-amazon-sagemaker/)
-- 2023-05-09 :newspaper: [Accelerate protein structure prediction with the ESMFold language model on Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/accelerate-protein-structure-prediction-with-the-esmfold-language-model-on-amazon-sagemaker/)
-- 2022 :hammer: [AWS Batch Architecture for ESMFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
-- 2022 :hammer: [AWS Batch Architecture for OmegaFold](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
+- 2024-03-6 :newspaper: [Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/)
 
 ---
 
@@ -107,6 +109,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 
 ### 2.7. Resources for Protein Design
 
+- 2024-06-25 :newspaper: [Revolutionizing Generative Biology with AWS and EvolutionaryScale](https://aws.amazon.com/blogs/industries/revolutionizing-generative-biology-with-aws-and-evolutionaryscale/)
 - 2023-05-10 :hammer: [Perform Antibody Structure Prediction and Design](https://catalog.workshops.aws/hcls-aiml/en-US/protein-analysis)
 - 2023-04-23 :newspaper: [How Evolvere Biosciences performs macromolecule design on AWS](https://aws.amazon.com/blogs/hpc/how-evolvere-biosciences-performs-macromolecule-design-on-the-aws-cloud/)
 - 2022 :hammer: [AWS Batch Architecture for ProteinMPNN](https://github.com/aws-samples/aws-batch-arch-for-protein-folding)
@@ -149,6 +152,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 - [Loyal, Brian](https://github.com/brianloyal)
 - Malhotra, Sudhanshu
 - [Miyamoto, Daisuke](https://github.com/DaisukeMiyamoto)
+- [Ozturk, Doruk](https://github.com/dorukozturk)
 - [Patel, Shivam](https://github.com/shimpat)
 - Pamulapati, Santhan
 - Peven, Ben
@@ -166,6 +170,7 @@ AWS technical teams have developed solutions to common protein analysis problems
 - Weber, Noah
 - [White, Natalie](https://github.com/natalie-white-aws)
 - Wu, Angela
+- Wood, Matt
 - [Xu, Rafa](https://github.com/aaaaatoz)
 
 ---
